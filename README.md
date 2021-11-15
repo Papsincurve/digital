@@ -3,7 +3,8 @@ Pic est un site permettant de jouer au pictionnary en ligne, c'est à dire d'ess
 
 #technique
 J'utilise Node 10,angular,bootstrap et mongoDb.
-#utilisation
-Cloner le git puis lancer le script dans e2e! 
+
+
+
 
 
